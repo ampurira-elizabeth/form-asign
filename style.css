@@ -1,0 +1,73 @@
+body{
+  background: linear-gradient(1250deg,#ecc898,#d39aad);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 10%;
+  align-items: center;
+}
+.container h3{
+  font-family: 'Updock', cursive;
+}
+
+  .container{
+    background-color: rgb(241, 210, 150);
+    height: 510px;
+    width: 200px;
+    padding: 40px;
+    
+  }
+  h1{
+    color: #885717;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  h6{
+    color: #885717;
+    margin-top: 100px;
+  }
+  img{
+   height: 30%;
+   width: 90%;
+   margin-top: 110px;
+  }
+section{
+  display: inline flex;
+}
+.sign{
+  color: #131112;
+  background-color: beige;
+  height: 510px;
+  width: 400px;
+  padding: 39.5px;
+  padding-bottom:-60%;
+}
+.data{
+display: flex;
+}
+
+.sign h6{
+text-align: right;
+margin-top: 10%;
+padding-bottom: 12px;
+}
+.sign img{
+  width: 1cm;
+  height: 18px;
+}
+.btn{
+  height: auto;
+}
+.input2{
+  margin-left: 60%;
+  padding-bottom: 20%;
+}
+.input1{
+margin-top: -30%;
+}
+.color button{
+  background-color: rgb(240, 16, 27);
+}
+.fa google{
+background-color: blue;
+}
+

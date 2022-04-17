@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(197, 188, 103);
+    border: 10cm;
+    text-align: center;
+    padding-top: 20%;
+    padding-left: 30%;
+    
+}
+.sign{
+height: 400px;
+width: 400px;
+background-color: rgb(234, 229, 240);
+margin-bottom: 400px;
+
+}
