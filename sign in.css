@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(197, 188, 103);
+    background: linear-gradient(1250deg,#ecc898,#d39aad);
     border: 10cm;
     text-align: center;
     padding-top: 20%;
@@ -13,3 +13,45 @@ background-color: rgb(234, 229, 240);
 margin-bottom: 400px;
 
 }
+.sign{
+    color: #131112;
+    background-color: beige;
+    height: 510px;
+    width: 400px;
+    padding: 39.5px;
+    padding-bottom:-60%;
+  }
+.sign h6{
+  text-align: right;
+  margin-top: 10%;
+  padding-bottom: 12px;
+  }
+.sign img{
+    width: 1cm;
+    height: 18px;
+  }
+.btn{
+    height: auto;
+  }
+.input2{
+    margin-left: 60%;
+    padding-bottom: 20%;
+  }
+.input1{
+  margin-top: -30%;
+  }
+.color button{
+    background-color: rgb(240, 16, 27);
+  }
+#fa{
+  background-color: rgb(68,52,243)
+  }
+.btn h2{
+   
+  display: flex;
+  }
+.btn hr{
+    width: 100px;
+  }
+  
+  

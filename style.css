@@ -67,7 +67,14 @@ margin-top: -30%;
 .color button{
   background-color: rgb(240, 16, 27);
 }
-.fa google{
-background-color: blue;
+#fa{
+background-color: rgb(68,52,243)
+}
+.btn h2{
+ 
+display: flex;
+}
+.btn hr{
+  width: 100px;
 }
 
