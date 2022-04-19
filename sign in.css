@@ -2,16 +2,13 @@ body{
     background: linear-gradient(1250deg,#ecc898,#d39aad);
     border: 10cm;
     text-align: center;
-    padding-top: 20%;
-    padding-left: 30%;
     
+    padding-left: 30%; 
 }
 .sign{
 height: 400px;
 width: 400px;
 background-color: rgb(234, 229, 240);
-margin-bottom: 400px;
-
 }
 .sign{
     color: #131112;
